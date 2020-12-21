@@ -21,7 +21,7 @@ to set the icon  dynamically.
 
 ## PlayBackRate
 
-a change event is being triggerd to change the speed of the video either from 0.5,0.75, 1 , 1.5 or 2. notice the video default for playbackRate is 1.
+a change event is being triggered to change the speed of the video either from 0.5, 0.75, 1 , 1.5 or 2. notice the video default for playbackRate is 1.
 
 
 ## fullscreen
