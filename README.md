@@ -4,8 +4,8 @@ just a project testing my vanilla javascript skills with video player, toggling 
 
 ## Play/Pause
 
-in the script.js there is a function written with an event to toggle this and also manipulate the play/pause icon when 'click' on. also an event 'ended' to noice when the video end
-so as to toggle the play/pause function when it did.
+in the script.js there is a function written with an event to toggle this and also manipulate the play/pause icon when 'click' on. also an event 'ended' to notice when the video end
+so as to toggle the play/pause function when it does.
 
 ## Progress Bar
 
