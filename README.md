@@ -26,7 +26,7 @@ a change event is being triggered to change the speed of the video either from 0
 
 ## fullscreen
 
-a click event is used on the on the fullscreen button. also i created a function to toggle the fullscreen button when it is being pressed.
+a click event is used on the on the fullscreen button. also i created a function to toggle the fullscreen button when it is being pressed...
 
 
 
